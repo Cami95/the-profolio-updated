@@ -1,0 +1,77 @@
+.hero {
+    text-align: center;
+    background-color: lightblue;
+    margin: 0;
+    
+}
+
+
+.hero p {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.hero h1{
+    font-size: 96px;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+
+
+}
+
+.hero h2{
+    font-size: 24px;
+    font-family:"Playfair Display", serif;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 64px;
+}
+
+p{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.btn-branding-outline{
+    border: 1px solid;
+    color: purple;
+}
+
+@media (max-width: 960px){
+    .project-description {
+        text-align: center;
+        padding: 0;
+    }
+}
+
+.about-hero{
+    font-size: 96px;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mail{
+    text-align: center;
+}
+
+h1{
+    font-size: 96px;
+    text-decoration: underline;
+    
+}
+
+.yogurt-img{
+    max-width: 35%;
+}
+
+.dictionary-img{
+    max-width: 35%;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.5;
+}
